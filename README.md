@@ -12,7 +12,7 @@ Frontend para aplicaçãod de gerenciamento de investimentos, desenvolvida com R
 
 ## Requisitos
 
-- Node.js 14+
+- Node.js
 - npm ou yarn
 - Backend da aplicação (ver seção Backend)
 
