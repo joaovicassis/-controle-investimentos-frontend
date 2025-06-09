@@ -19,11 +19,6 @@ Frontend para aplicaçãod de gerenciamento de investimentos, desenvolvida com R
 ## Instalação
 
 1. Clone o repositório:
-```bash
-git clone [URL_DO_REPOSITÓRIO]
-cd controle-investimentos-frontend
-```
-
 2. Instale as dependências:
 ```bash
 npm install
